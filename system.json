@@ -1,14 +1,14 @@
 {
-  "id": "daggerheart",
-  "version": "2.10.20",
-  "title": "Daggerheart",
+  "id": "pj-daggerheart",
+  "version": "0.1.01",
+  "title": "Daggerheart - PJ",
   "url": "",
   "description": "Unofficial Daggerheart Game System",
   "license": "LICENSE.txt",
   "authors": [
     {
-      "name": "featureJosh",
-      "url": "https://github.com/featureJosh"
+      "name": "PJ-Leyden",
+      "url": "https://github.com/PJ-Leyden"
     }
   ],
   "esmodules": ["module/simple.js"],
@@ -39,6 +39,6 @@
   },
   "primaryTokenAttribute": "barHealth",
   "secondaryTokenAttribute": "barStress",
-  "manifest": "https://raw.githubusercontent.com/unofficial-daggerheart/daggerheart/master/system.json",
-  "download"  : "https://github.com/unofficial-daggerheart/daggerheart/archive/refs/tags/v2.10.20.zip"
+  "manifest": "https://raw.githubusercontent.com/PJ-Leyden/daggerheart/refs/heads/master/system.json",
+  "download": "https://github.com/PJ-Leyden/daggerheart/releases/tag/v0.1.01.zip"
 }
