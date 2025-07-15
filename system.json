@@ -1,6 +1,6 @@
 {
   "id": "pj-daggerheart",
-  "version": "0.1.01",
+  "version": "0.1.02",
   "title": "Daggerheart - PJ",
   "url": "",
   "description": "Unofficial Daggerheart Game System",
@@ -40,5 +40,5 @@
   "primaryTokenAttribute": "barHealth",
   "secondaryTokenAttribute": "barStress",
   "manifest": "https://raw.githubusercontent.com/PJ-Leyden/daggerheart/refs/heads/master/system.json",
-  "download": "https://github.com/PJ-Leyden/daggerheart/releases/tag/v0.1.01.zip"
+  "download": "https://github.com/PJ-Leyden/daggerheart/archive/refs/tags/v0.1.02.zip"
 }
